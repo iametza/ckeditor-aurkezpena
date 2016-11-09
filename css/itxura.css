@@ -10,6 +10,22 @@
   /******* Nabigazioko geziak *******/ }
   .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
     font-family: 'Graublau Sans Web', sans-serif; }
+  .reveal ul li {
+    list-style-type: none; }
+  .reveal a {
+    color: #B3BA33;
+    text-decoration: none; }
+    .reveal a:hover img {
+      background: none;
+      border-color: none;
+      box-shadow: none; }
+  .reveal iframe {
+    margin-left: auto;
+    margin-right: auto; }
+  .reveal section img {
+    background: none;
+    border: none;
+    box-shadow: none; }
   .reveal .controls .navigate-up, .reveal .controls .navigate-up.enabled {
     border-bottom-color: #B3BA33; }
   .reveal .controls .navigate-right, .reveal .controls .navigate-right.enabled {
@@ -18,5 +34,34 @@
     border-top-color: #B3BA33; }
   .reveal .controls .navigate-left, .reveal .controls .navigate-left.enabled {
     border-right-color: #B3BA33; }
-  .reveal .sarrera h1 {
-    font-size: 1.0rem; }
+  .reveal .sarrera {
+    height: 100%; }
+    .reveal .sarrera .izenburua {
+      font-size: 48px;
+      position: absolute;
+      top: 250px; }
+    .reveal .sarrera .iametza {
+      position: absolute;
+      top: 0px;
+      left: 0px;
+      width: 400px; }
+    .reveal .sarrera .ideia-batetik-errealitatera {
+      position: absolute;
+      bottom: 0px;
+      right: 0px;
+      width: 400px; }
+    .reveal .sarrera .nork {
+      position: absolute;
+      top: 550px;
+      font-weight: bold;
+      font-size: 32px; }
+      .reveal .sarrera .nork a {
+        color: #B3BA33; }
+    .reveal .sarrera .non {
+      position: absolute;
+      top: 595px;
+      font-size: 26px; }
+    .reveal .sarrera .noiz {
+      position: absolute;
+      top: 640px;
+      font-size: 26px; }

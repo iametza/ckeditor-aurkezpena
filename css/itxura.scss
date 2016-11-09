@@ -13,6 +13,33 @@
         font-family: 'Graublau Sans Web', sans-serif;
     }
 
+    ul li {
+        list-style-type: none;
+    }
+
+    a {
+        color: #B3BA33;
+        text-decoration: none;
+
+        &:hover img {
+            background: none;
+            border-color: none;
+            box-shadow: none;
+        }
+    }
+
+    iframe {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    section img {
+        background: none;
+        border: none;
+        box-shadow: none;
+    }
+
+
     /******* Nabigazioko geziak *******/
     .controls {
         .navigate-up, .navigate-up.enabled {
@@ -30,8 +57,44 @@
     }
 
     .sarrera {
-        h1 {
-            font-size: 1.0rem;
+        height: 100%;
+
+        .izenburua {
+            font-size: 48px;
+            position: absolute;
+            top: 250px;
+        }
+        .iametza {
+            position: absolute;
+            top: 0px;
+            left: 0px;
+            width: 400px;
+        }
+        .ideia-batetik-errealitatera {
+            position: absolute;
+            bottom: 0px;
+            right: 0px;
+            width: 400px;
+        }
+        .nork {
+            position: absolute;
+            top: 550px;
+            font-weight: bold;
+            font-size: 32px;
+
+            a {
+                color: #B3BA33;
+            }
+        }
+        .non {
+            position: absolute;
+            top: 595px;
+            font-size: 26px;
+        }
+        .noiz {
+            position: absolute;
+            top: 640px;
+            font-size: 26px;
         }
     }
 }

@@ -1,0 +1,13 @@
+/*
+ */
+@font-face {
+  font-family: Graublau Sans Web;
+  src: url(../fonts/GraublauWeb.otf) format("opentype"); }
+
+/******* Orokorrak *******/
+.reveal {
+  font-family: 'Open Sans', sans-serif; }
+  .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+    font-family: 'Graublau Sans Web', sans-serif; }
+  .reveal .sarrera h1 {
+    font-size: 1.0rem; }

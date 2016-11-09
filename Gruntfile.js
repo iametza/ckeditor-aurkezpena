@@ -35,6 +35,7 @@ module.exports = function(grunt) {
 			core: {
 				files: {
 					'css/reveal.css': 'css/reveal.scss',
+                    'css/itxura.css': 'css/itxura.scss',
 				}
 			},
 			themes: {
@@ -59,7 +60,7 @@ module.exports = function(grunt) {
 		cssmin: {
 			compress: {
 				files: {
-					'css/reveal.min.css': [ 'css/reveal.css' ]
+					'css/reveal.min.css': [ 'css/reveal.css', 'css/itxura.css' ]
 				}
 			}
 		},
@@ -122,7 +123,7 @@ module.exports = function(grunt) {
 				tasks: 'css-themes'
 			},
 			css: {
-				files: [ 'css/reveal.scss' ],
+				files: [ 'css/reveal.scss', 'css/itxura.scss' ],
 				tasks: 'css-core'
 			},
 			html: {

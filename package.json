@@ -1,8 +1,8 @@
 {
-  "name": "reveal.js",
-  "version": "3.3.0",
-  "description": "The HTML Presentation Framework",
-  "homepage": "http://lab.hakim.se/reveal-js",
+  "name": "ckeditor-aurkezpena",
+  "version": "0.0.0",
+  "description": "Software eta Teknologia Librearen III. Euskal Mintegian egindako 'CKEditor webguneetarako testu-editore librea, bere plugin ekosistema eta ''HTML5 audio'' pluginaren kasuaren azterketa' aurkezpenean laguntzeko sortutako edukiak.",
+  "homepage": "http://iametza.github.io/ckeditor-aurkezpena",
   "subdomain": "revealjs",
   "main": "js/reveal.js",
   "scripts": {
@@ -10,13 +10,13 @@
     "start": "grunt serve"
   },
   "author": {
-    "name": "Hakim El Hattab",
-    "email": "hakim.elhattab@gmail.com",
-    "web": "http://hakim.se"
+    "name": "Asier Iturralde Sarasola",
+    "email": "asier.iturralde@gmail.com",
+    "web": "http://www.iametza.eus http://aldatsa.eus"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/hakimel/reveal.js.git"
+    "url": "git://github.com/iametza/ckeditor-aurkezpena.git"
   },
   "engines": {
     "node": "~4.1.1"
@@ -40,5 +40,5 @@
     "grunt-zip": "~0.17.1",
     "node-sass": "~3.3.3"
   },
-  "license": "MIT"
+  "license": "GNU GPLv3"
 }

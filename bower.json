@@ -1,22 +1,22 @@
 {
-  "name": "reveal.js",
-  "version": "3.3.0",
+  "name": "ckeditor-aurkezpena",
+  "version": "0.0.0",
   "main": [
     "js/reveal.js",
     "css/reveal.css"
   ],
-  "homepage": "http://lab.hakim.se/reveal-js/",
-  "license": "MIT",
-  "description": "The HTML Presentation Framework",
+  "homepage": "http://iametza.github.io/ckeditor-aurkezpena",
+  "license": "GNU GPLv3",
+  "description": "Software eta Teknologia Librearen III. Euskal Mintegian egindako 'CKEditor webguneetarako testu-editore librea, bere plugin ekosistema eta ''HTML5 audio'' pluginaren kasuaren azterketa' aurkezpenean laguntzeko sortutako edukiak.",
   "authors": [
-    "Hakim El Hattab <hakim.elhattab@gmail.com>"
+    "Asier Iturralde Sarasola <asier.iturralde@gmail.com>"
   ],
   "dependencies": {
     "headjs": "~1.0.3"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/hakimel/reveal.js.git"
+    "url": "git://github.com/iametza/ckeditor-aurkezpena.git"
   },
   "ignore": [
     "**/.*",

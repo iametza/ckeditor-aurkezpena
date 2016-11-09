@@ -13,6 +13,22 @@
         font-family: 'Graublau Sans Web', sans-serif;
     }
 
+    /******* Nabigazioko geziak *******/
+    .controls {
+        .navigate-up, .navigate-up.enabled {
+            border-bottom-color: #B3BA33;
+        }
+        .navigate-right, .navigate-right.enabled {
+            border-left-color: #B3BA33;
+        }
+        .navigate-down, .navigate-down.enabled {
+            border-top-color: #B3BA33;
+        }
+        .navigate-left, .navigate-left.enabled {
+            border-right-color: #B3BA33;
+        }
+    }
+
     .sarrera {
         h1 {
             font-size: 1.0rem;

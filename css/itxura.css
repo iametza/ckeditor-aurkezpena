@@ -43,35 +43,35 @@
     border-top-color: #B3BA33; }
   .reveal .controls .navigate-left, .reveal .controls .navigate-left.enabled {
     border-right-color: #B3BA33; }
-  .reveal .sarrera {
+  .reveal section .azalpena {
+    margin: 20px 0px 20px 0px; }
+  .reveal section.sarrera {
     height: 100%; }
-    .reveal .sarrera .izenburua {
+    .reveal section.sarrera .izenburua {
       position: absolute;
       top: 250px; }
-    .reveal .sarrera .iametza {
+    .reveal section.sarrera .iametza {
       position: absolute;
       top: 0px;
       left: 0px;
       width: 400px; }
-    .reveal .sarrera .ideia-batetik-errealitatera {
+    .reveal section.sarrera .ideia-batetik-errealitatera {
       position: absolute;
       bottom: 0px;
       right: 0px;
       width: 400px; }
-    .reveal .sarrera .nork {
+    .reveal section.sarrera .nork {
       position: absolute;
       top: 550px;
       font-weight: bold;
       font-size: 32px; }
-      .reveal .sarrera .nork a {
+      .reveal section.sarrera .nork a {
         color: #B3BA33; }
-    .reveal .sarrera .non {
+    .reveal section.sarrera .non {
       position: absolute;
       top: 595px;
       font-size: 26px; }
-    .reveal .sarrera .noiz {
+    .reveal section.sarrera .noiz {
       position: absolute;
       top: 640px;
       font-size: 26px; }
-  .reveal .zer-da-ckeditor .azalpena {
-    margin: 20px 0px 20px 0px; }

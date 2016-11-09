@@ -10,6 +10,15 @@
   /******* Nabigazioko geziak *******/ }
   .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
     font-family: 'Graublau Sans Web', sans-serif; }
+  .reveal h1 {
+    font-size: 48px;
+    text-shadow: none; }
+  .reveal h2 {
+    font-size: 36px; }
+  .reveal h3 {
+    font-size: 24px; }
+  .reveal h4 {
+    font-size: 20px; }
   .reveal ul li {
     list-style-type: none; }
   .reveal a {
@@ -37,7 +46,6 @@
   .reveal .sarrera {
     height: 100%; }
     .reveal .sarrera .izenburua {
-      font-size: 48px;
       position: absolute;
       top: 250px; }
     .reveal .sarrera .iametza {
@@ -65,3 +73,5 @@
       position: absolute;
       top: 640px;
       font-size: 26px; }
+  .reveal .zer-da-ckeditor .azalpena {
+    margin: 20px 0px 20px 0px; }

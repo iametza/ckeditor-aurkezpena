@@ -75,3 +75,9 @@
       position: absolute;
       top: 640px;
       font-size: 26px; }
+  .reveal section.ckeditor-historia .logoak {
+    margin-top: 20px; }
+    .reveal section.ckeditor-historia .logoak img {
+      vertical-align: middle; }
+      .reveal section.ckeditor-historia .logoak img.ckeditor-logoa {
+        margin-left: 20px; }

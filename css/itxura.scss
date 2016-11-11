@@ -120,5 +120,18 @@
         }
         &.zer-da-ckeditor {
         }
+        &.ckeditor-historia {
+            .logoak {
+                margin-top: 20px;
+
+                img {
+                    vertical-align: middle;
+
+                    &.ckeditor-logoa {
+                        margin-left: 20px;
+                    }
+                }
+            }
+        }
     }
 }

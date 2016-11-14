@@ -19,8 +19,18 @@
     font-size: 24px; }
   .reveal h4 {
     font-size: 20px; }
-  .reveal ul li {
-    list-style-type: none; }
+  .reveal ul {
+    text-align: left;
+    width: 600px;
+    margin: 0 auto; }
+    .reveal ul li {
+      list-style-type: none;
+      background-image: url(../img/bonbila.png);
+      background-repeat: no-repeat;
+      line-height: 30px;
+      padding-left: 30px;
+      padding-bottom: 30px;
+      font-size: 20px; }
   .reveal a {
     color: #B3BA33;
     text-decoration: none; }

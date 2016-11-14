@@ -30,8 +30,20 @@
         font-size: 20px;
     }
 
-    ul li {
-        list-style-type: none;
+    ul {
+        text-align: left;
+        width: 600px;
+        margin: 0 auto;
+
+        li {
+            list-style-type: none;
+            background-image: url(../img/bonbila.png);
+            background-repeat: no-repeat;
+            line-height: 30px;
+            padding-left: 30px;
+            padding-bottom: 30px;
+            font-size: 20px;
+        }
     }
 
     a {

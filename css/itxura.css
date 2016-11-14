@@ -98,6 +98,10 @@
         margin-left: 20px; }
   .reveal section.ckeditor-lizentzia .logoak img {
     vertical-align: middle; }
+    .reveal section.ckeditor-lizentzia .logoak img.lgpl-logoa {
+      height: 150px; }
+    .reveal section.ckeditor-lizentzia .logoak img.mpl-logoa {
+      height: 115px; }
   .reveal section.ckeditor-garapen-eredua-ii .ckeditor5-logoa img {
     width: 300px; }
   .reveal section.html5-audio-historia pre code {

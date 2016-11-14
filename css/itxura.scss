@@ -161,6 +161,13 @@
 
                 img {
                     vertical-align: middle;
+
+                    &.lgpl-logoa {
+                        height: 150px;
+                    }
+                    &.mpl-logoa {
+                        height: 115px;
+                    }
                 }
             }
         }

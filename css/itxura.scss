@@ -44,6 +44,10 @@
             padding-bottom: 30px;
             font-size: 20px;
         }
+
+        ul {
+            margin-left: 75px;
+        }
     }
 
     a {
@@ -163,6 +167,16 @@
         &.ckeditor-garapen-eredua-ii {
             .ckeditor5-logoa img {
                 width: 300px;
+            }
+        }
+        &.html5-audio-aurkezpena {
+
+        }
+        &.html5-audio-historia {
+            pre {
+                code {
+                    overflow-y: hidden;
+                }
             }
         }
     }

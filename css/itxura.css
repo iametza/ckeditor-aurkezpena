@@ -31,6 +31,8 @@
       padding-left: 30px;
       padding-bottom: 30px;
       font-size: 20px; }
+    .reveal ul ul {
+      margin-left: 75px; }
   .reveal a {
     color: #B3BA33;
     text-decoration: none; }
@@ -98,3 +100,5 @@
     vertical-align: middle; }
   .reveal section.ckeditor-garapen-eredua-ii .ckeditor5-logoa img {
     width: 300px; }
+  .reveal section.html5-audio-historia pre code {
+    overflow-y: hidden; }

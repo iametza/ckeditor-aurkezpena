@@ -38,6 +38,8 @@
       background: none;
       border-color: none;
       box-shadow: none; }
+  .reveal strong {
+    font-weight: bold; }
   .reveal iframe {
     margin-left: auto;
     margin-right: auto; }

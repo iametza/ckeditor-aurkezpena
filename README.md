@@ -32,6 +32,6 @@ https://github.com/hakimel/reveal.js
 
 ## Lizentzia
 
-\#datraolat gehigarriak eta aurkezpen hau software librea dira. Iturburu-kodeak [GNU General Public License v3](http://www.gnu.org/licenses/gpl.html) lizentzia dauka
+CKEditor-eko html5 audio plugina eta aurkezpen hau software librea dira. Iturburu-kodeak [GNU General Public License v3](http://www.gnu.org/licenses/gpl.html) lizentzia dauka.
 
 <a rel="license" href="http://www.gnu.org/licenses/gpl.html"><img alt="GNU General Public License version 3" style="border-width:0" src="http://www.gnu.org/graphics/gplv3-127x51.png" /></a>

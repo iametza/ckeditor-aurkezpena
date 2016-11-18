@@ -4,6 +4,10 @@ Aurkezpena ikusi nahi baduzu egin klik esteka honetan:
 
 http://iametza.github.io/ckeditor-aurkezpena
 
+Nahiago izanez gero PDFan ere eskuratu dezakezu:
+
+https://github.com/iametza/ckeditor-aurkezpena/raw/master/ckeditor-aurkezpena-setlem2016.pdf
+
 ## ckeditor-eko html5 audio plugina
 
 CKEditor-en gehigarrien orritik deskarga dezakezue doan:

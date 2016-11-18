@@ -8,6 +8,8 @@ Nahiago izanez gero PDFan ere eskuratu dezakezu:
 
 https://github.com/iametza/ckeditor-aurkezpena/raw/master/ckeditor-aurkezpena-setlem2016.pdf
 
+![alt Asier Iturraldek emandako hitzaldiaren hasiera](img/ckeditor-setlem-2016.jpeg)
+
 ## ckeditor-eko html5 audio plugina
 
 CKEditor-en gehigarrien orritik deskarga dezakezue doan:
